@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-One small step for woman... one giant leap for... mankind?  Maybe not.  But this is fun.
+I'm learning more each day!  This is so much fun!  I want to be like Felicity on Arrow.
